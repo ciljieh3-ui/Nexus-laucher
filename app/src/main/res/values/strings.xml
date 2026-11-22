@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nexus Launcher</string>
+    <string name="settings_title">Nexus Settings</string>
+    <string name="device_admin_description">Digunakan hanya untuk mengunci layar saat gestur ketuk dua kali (double tap) diaktifkan pada layar utama Nexus Launcher.</string>
+    <string name="notification_listener_label">Nexus Notification Dots</string>
+    <string name="search_apps_hint">Cari aplikasi &amp; pintasan…</string>
+    <string name="no_apps_found">Tidak ada aplikasi yang cocok</string>
+    <string name="default_launcher_banner_title">Jadikan Nexus sebagai Home Default</string>
+    <string name="default_launcher_banner_subtitle">Ketuk untuk menetapkan Nexus Launcher sebagai layar utama bawaan</string>
+</resources>

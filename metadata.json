@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Launcher",
+  "description": "Nexus Micro: Zero-dependency native Android Views & Canvas home launcher with universal adaptive device engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
